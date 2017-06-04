@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[分类层级测试]]></title>
+    <url>%2F2017%2F06%2F04%2F%E5%88%86%E7%B1%BB%E5%B1%82%E7%BA%A7%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[测试目录一测试类别的层级！ 目录 - 代码12345678public class Test&#123; public static void Main(string[] args) &#123; string str = "this is a string" Console.WriteLine(str); &#125;&#125; 注：以上为代码格式 测试目录三 ce shi test for callout1 测试目录四sadasd ada a s d a ce shi test for callout2 sdfsdfsdfsdfsdfsdfsdf]]></content>
+      <categories>
+        <category>类别</category>
+        <category>生活</category>
+        <category>体育</category>
+      </categories>
+      <tags>
+        <tag>类别</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[标签与分类的测试文章]]></title>
+    <url>%2F2017%2F06%2F04%2F%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"><![CDATA[这是一篇测试文章。测试标签的使用！]]></content>
+      <categories>
+        <category>类别</category>
+        <category>生活</category>
+        <category>工作</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2016%2F12%2F11%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
